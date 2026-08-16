@@ -1,0 +1,4 @@
+interface:
+  display_name: "Storytelling Frameworks"
+  short_description: "Crea storie umane con sette framework"
+  default_prompt: "Usa $storytelling-frameworks per intervistarmi e trasformare il mio materiale in una storia efficace."
